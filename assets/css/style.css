@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+p:first-of-type {
+  font-style: italic;
+}
+
+p:last-of-type {
+  font-weight: bold;
+}
